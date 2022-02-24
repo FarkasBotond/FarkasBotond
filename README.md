@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FarkasBotond
 - 👀 I’m interested in HTML/CSS
 - 🌱 I’m currently learning HTML/CSS. Bootstrap
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on with Senior Sir Hrubos Mark
 - 📫 How to reach me ...
 
 <!---
